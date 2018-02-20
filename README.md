@@ -10,6 +10,9 @@ root@hogehoge:/# cd /tmp/foo
 root@hogehoge:/tmp/foo# node --inspect=0.0.0.0 bar.js
 ```
 
+### 参考
+[VScodeでDockerコンテナ上のNode.jsをデバッグする方法(英語)](https://alexanderzeitler.com/articles/debugging-a-nodejs-es6-application-in-a-docker-container-using-visual-studio-code/)
+
 ## Dockerイメージでやったこと
 
 - ejsのインストール
