@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "request": "attach",
+            "name": "Attach Debug Node",
+            "type": "node",
+            "protocol": "inspector",
+            "address": "localhost",
+            "port": 9229,
+            "remoteRoot": "/tmp/",
+            "localRoot": "${workspaceRoot}/",
+        }
+    ]
+}
