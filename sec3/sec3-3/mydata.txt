@@ -1,0 +1,5 @@
+{"id":"こにし","msg":"おほほー"}
+{"id":"futa","msg":"aaaaa"}
+{"id":"こにし","msg":"こにしこにし"}
+{"id":"futa","msg":"こにし"}
+{"id":"futa","msg":"aaa"}
