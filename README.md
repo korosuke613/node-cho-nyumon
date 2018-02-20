@@ -3,9 +3,16 @@
 
 ## やりかた
 
+### ホストでの操作
+
 ```bash
 cd hogehoge/nodeLearn
 docker run -it --rm -v $PWD:/tmp -p 8080:3000 -p 9229:9229 korosuke613/node_learn /bin/bash
+```
+
+### リモート（コンテナ内）での操作
+
+```bash
 root@hogehoge:/# cd /tmp/foo
 root@hogehoge:/tmp/foo# node --inspect=0.0.0.0 bar.js
 ```
