@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "commonjs",
+        "sourceMap": true,
+        // 出力するファイル名を指定
+        "lib": [
+                "es2017",
+        ]
+    }
+}
