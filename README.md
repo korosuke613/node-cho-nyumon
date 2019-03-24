@@ -1,5 +1,7 @@
 # nodeLearn
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/korosuke613/node-cho-nyumon.svg)](https://greenkeeper.io/)
+
 [Node.js超入門](http://www.shuwasystem.co.jp/products/7980html/5092.html)を参考にnode.jsのお勉強をする。
 
 ## やりかた
