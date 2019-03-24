@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "BeenoApiServer/package.json",
+        "sec4/package.json"
+      ]
+    }
+  }
+}
